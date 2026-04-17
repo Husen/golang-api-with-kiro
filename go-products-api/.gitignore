@@ -1,0 +1,14 @@
+# binary
+server
+
+# env
+.env
+
+# generated docs
+docs/
+
+# Go
+*.exe
+*.test
+*.out
+vendor/
