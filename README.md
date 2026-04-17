@@ -17,7 +17,7 @@ Tidak perlu install Go secara lokal — semua berjalan di Docker.
 ```bash
 # 1. Clone repo
 git clone https://github.com/your-username/go-products-api.git
-cd go-products-api/go-products-api
+cd go-products-api
 
 # 2. Setup env
 cp .env.example .env
